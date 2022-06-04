@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago Ribeiro</h1>
 <h3 align="center">A passionate student from Portugal</h3>
-<img  align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotellab.io%2Fen%2Fmarketing&psig=AOvVaw3BoroPdtgO4w5bvctHeCQv&ust=1654396015177000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiszMnfkvgCFQAAAAAdAAAAABBb" alt="Coding" />
+<img  align="right" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotellab.io%2Fen%2Fmarketing&psig=AOvVaw3BoroPdtgO4w5bvctHeCQv&ust=1654396015177000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiszMnfkvgCFQAAAAAdAAAAABBb](https://l-a-b-a.com/uploads/blog/media/39/0bc09ea685c4d17022b55a7daaf8b8fbb855caf4.gif)" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoribeiro02&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoribeiro02" /> </p>
 
