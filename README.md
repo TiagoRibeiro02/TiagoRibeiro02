@@ -11,6 +11,5 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://chools.in/wp-content/uploads/6.gif">
 </div>
 
-<div>
-   ![Snake animation](https://github.com/TiagoRibeiro02/TiagoRibeiro02/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/TiagoRibeiro02/TiagoRibeiro02/blob/output/github-contribution-grid-snake.svg)
