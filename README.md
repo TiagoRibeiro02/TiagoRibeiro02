@@ -1,4 +1,27 @@
-## Hi, I'm Tiago Ribeiro, a student from portugal!
+# 🎓 Hi, I'm Tiago Ribeiro, a student from portugal!
+
+## :email: Find me on:
+
+<!--
+[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
+
+<p align="center">
+ <a href="mailto:tiago.lopes.ribeiro@ubi.pt"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <br />
+ <a href="mailto:tiago.lopes.ribeiro@ubi.pt" style="vertical-align:top; margin:4px">tiago.lopes.ribeiro@ubi.pt</a> 
+</p>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/tiago-ribeiro-59703927b/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> 
+ <br />
+ <a href="https://www.linkedin.com/in/tiago-ribeiro-59703927b/" style="vertical-align:top; margin:4px">LinkedIn Profile</a> 
+</p>
+
+## 🧰 Languages and Tools:
+
 <div align="center">
   <a href="https://github.com/TiagoRibeiro02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoRibeiro02&count_private=true&show_icons=true&theme=transparent"/><br>
