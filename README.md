@@ -24,8 +24,8 @@
 
 <div align="center">
   <a href="https://github.com/TiagoRibeiro02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoRibeiro02&count_private=true&show_icons=true&theme=transparent"/><br>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoRibeiro02&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github.com/PencilNavigator/readme-stats-URL/api?username=TiagoRibeiro02&count_private=true&show_icons=true&theme=transparent"/><br>
+  <img height="145em" src="https://github.com/PencilNavigator/readme-stats-URL/api/top-langs/?username=TiagoRibeiro02&layout=compact&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-Js" height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
