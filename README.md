@@ -28,6 +28,7 @@
   <img height="145em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=TiagoRibeiro02&layout=compact&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Tiago-Flutter" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Tiago-Dart" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Tiago-Js" height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tiago-HTML" height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
