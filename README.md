@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/TiagoRibeiro02">
-  <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=TiagoRibeiro02&count_private=true&show_icons=true&theme=transparent"/><br>
+  <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=TiagoRibeiro02&count_private=true&show_icons=true&theme=transparent&include_all_comits=true"/><br>
   <img height="145em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=TiagoRibeiro02&layout=compact&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
