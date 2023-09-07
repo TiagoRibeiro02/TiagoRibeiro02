@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/TiagoRibeiro02">
-  <img height="180em" src="https://github-readme-stats-two-omega-13.vercel.app/api?username=TiagoRibeiro02&count_private=true&show_icons=true&theme=transparent"/><br>
+  <img height="180em" src="https://github-readme-stats-two-omega-13.vercel.app/api?username=TiagoRibeiro02&count_private=true&show_icons=true&theme=transparent&rank_icon=github"/><br>
   <img height="145em" src="https://github-readme-stats-two-omega-13.vercel.app/api/top-langs/?username=TiagoRibeiro02&layout=compact&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
