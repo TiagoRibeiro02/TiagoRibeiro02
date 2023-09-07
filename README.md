@@ -24,8 +24,8 @@
 
 <div align="center">
   <a href="https://github.com/TiagoRibeiro02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoRibeiro02&count_private=true&show_icons=true&theme=transparent&include_all_comits=true"/><br>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoRibeiro02&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-two-omega-13.vercel.app/api?username=TiagoRibeiro02&count_private=true&show_icons=true&theme=transparent&include_all_comits=true"/><br>
+  <img height="145em" src="https://github-readme-stats-two-omega-13.vercel.app/api/top-langs/?username=TiagoRibeiro02&layout=compact&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-Flutter" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
